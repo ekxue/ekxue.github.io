@@ -7,7 +7,7 @@ title: "Emily Xue"
 ---
 Hi there! Nice to meet you, I'm Emily.
 <div class="pfp-container">
-  <img src="assets/website_profile.jpg" class="pfp">
+  <img src="assets/images/website_profile.jpg" class="pfp">
 </div>
 
 
