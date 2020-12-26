@@ -10,7 +10,7 @@ To use the compass:
 * After calibrating the EMS device to your liking, press the central button on the bracelet. Using [EMS](https://en.wikipedia.org/wiki/Electrical_muscle_stimulation) electrode pads, the Human Compass device will move your hand to the left if you need to walk left, and right if you need to walk right.
 * As you continue along your route, you can press the button whenever you need directions and the EMS nodes will move your hand to point you in the right direction.
 
-For this project, we created the navigation program using `C++` on an Arduino, and we assembled the entire device ourselves, from soldering the actuators and sensors together, to using `TinkerCad` to model the different pieces and print them out with a 3D printer. 
+For this project, we created the navigation program using `C++` on an Arduino, and we assembled the entire device ourselves, from soldering the actuators and sensors together, to using `TinkerCAD` to model the different pieces and print them out with a 3D printer. 
 
 
 ![](../assets/images/hci/full-device.jpg)
